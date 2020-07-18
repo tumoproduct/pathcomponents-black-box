@@ -175,7 +175,7 @@
     "@polymer/paper-styles" "^0.0.3"
     "@polymer/polymer" "^1.2.5-npm-test.2"
 
-"@polymer/polymer@^1.2.5-npm-test.2", "@polymer/polymer@https://github.com/Polymer/polymer.git":
+"@polymer/polymer@^1.2.5-npm-test.2":
   version "1.8.0"
   resolved "https://github.com/Polymer/polymer.git#2d804a28f24d7842159a69f0ca588e929a3f9760"
 
@@ -390,8 +390,8 @@ lie@~3.1.0:
     immediate "~3.0.5"
 
 lodash@^4.17.4:
-  version "4.17.4"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
+  version "4.17.19"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
 
 marked@~0.3.3:
   version "0.3.6"
